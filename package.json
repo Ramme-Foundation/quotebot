@@ -8,8 +8,10 @@
     "@slack/events-api": "^2.3.2",
     "@slack/web-api": "^5.8.0",
     "dotenv": "8.2.0",
+    "mongoose": "5.9.6",
     "netlify-lambda": "1.6.3",
     "node-fetch": "2.6.0",
+    "regenerator-runtime": "0.13.5",
     "typescript": "3.8.3"
   },
   "scripts": {
@@ -19,6 +21,7 @@
   "devDependencies": {
     "@babel/preset-typescript": "7.8.3",
     "@types/aws-lambda": "8.10.46",
+    "@types/mongoose": "5.7.8",
     "@types/node": "13.9.2"
   }
 }
