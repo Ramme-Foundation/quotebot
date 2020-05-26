@@ -8,7 +8,7 @@
     "@slack/events-api": "^2.3.2",
     "@slack/web-api": "^5.8.0",
     "dotenv": "8.2.0",
-    "mongoose": "5.9.6",
+    "mongoose": "5.9.16",
     "netlify-lambda": "1.6.3",
     "node-fetch": "2.6.0",
     "regenerator-runtime": "0.13.5",
