@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@babel/preset-typescript": "7.8.3",
-    "@types/aws-lambda": "8.10.46",
+    "@types/aws-lambda": "8.10.56",
     "@types/mongoose": "5.7.8",
     "@types/node": "13.9.2"
   }
