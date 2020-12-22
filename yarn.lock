@@ -836,10 +836,10 @@
     p-queue "^2.4.2"
     p-retry "^4.0.0"
 
-"@types/aws-lambda@8.10.46":
-  version "8.10.46"
-  resolved "https://registry.yarnpkg.com/@types/aws-lambda/-/aws-lambda-8.10.46.tgz#3246348cdc15921bd065966109fc1c6f6d5cfd96"
-  integrity sha512-88E4Hlypo3AE40wslm7N4n09lCIJwgYJm5wsaA3/Vib1xqjC/ANePTaPRpPdj9NzBSpw7Tgon58qGMYEArx4oA==
+"@types/aws-lambda@8.10.67":
+  version "8.10.67"
+  resolved "https://registry.yarnpkg.com/@types/aws-lambda/-/aws-lambda-8.10.67.tgz#e74d1dc31ddfa5ca6cd3ca68b5bef719d0628d1c"
+  integrity sha512-rQPIkP7Xs6oKR6VYdoPbKghzndzlvTJHbAGvd5PE6LXUo4PNPVP2y1dLTGgEXHapXZraTM9oBLrJFgozJom9BA==
 
 "@types/body-parser@*":
   version "1.19.0"
