@@ -10,7 +10,7 @@
     "dotenv": "8.2.0",
     "mongoose": "5.9.6",
     "netlify-lambda": "1.6.3",
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.7",
     "regenerator-runtime": "0.13.5",
     "typescript": "3.8.3"
   },
